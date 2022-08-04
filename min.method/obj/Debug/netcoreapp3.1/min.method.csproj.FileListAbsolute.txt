@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\bin\Debug\netcoreapp3.1\min.method.exe
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\bin\Debug\netcoreapp3.1\min.method.deps.json
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\bin\Debug\netcoreapp3.1\min.method.runtimeconfig.json
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\bin\Debug\netcoreapp3.1\min.method.runtimeconfig.dev.json
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\bin\Debug\netcoreapp3.1\min.method.dll
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\bin\Debug\netcoreapp3.1\min.method.pdb
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\obj\Debug\netcoreapp3.1\min.method.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\obj\Debug\netcoreapp3.1\min.method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\obj\Debug\netcoreapp3.1\min.method.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\obj\Debug\netcoreapp3.1\min.method.AssemblyInfo.cs
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\obj\Debug\netcoreapp3.1\min.method.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\obj\Debug\netcoreapp3.1\min.method.dll
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\obj\Debug\netcoreapp3.1\min.method.pdb
+C:\Users\User\Desktop\projects\methodofmin\min.method\min.method\obj\Debug\netcoreapp3.1\min.method.genruntimeconfig.cache
